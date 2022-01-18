@@ -9,10 +9,6 @@ django-allauth = "*"
 pillow = "*"
 psycopg2 = "*"
 django-environ = "*"
-django-cors-headers = "*"
-django-dbbackup = "*"
-django-pipeline = "*"
-django-axes = "*"
 
 [dev-packages]
 
